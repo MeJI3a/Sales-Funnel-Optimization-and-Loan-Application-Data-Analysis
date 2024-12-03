@@ -72,15 +72,6 @@ This project focuses on analyzing a loan application dataset to identify ineffic
 
 ---
 
-## Visualizations and Dashboards
-
-### Power BI Dashboard
-
-- A Power BI dashboard provides interactive insights into the sales funnel and its stages. 
-- **[Link to Power BI Dashboard](https://example.com)** (replace with the actual link to your dashboard).
-
----
-
 ## Project Workflow
 
 1. **Data Cleaning**:
